@@ -1,0 +1,48 @@
+
+.andr{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 35%;
+}
+
+.zom{
+    background-color: #04AA6D; /* Green */
+    text-transform: uppercase;
+  border: none;
+  color: white;
+  padding: 40px 57px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.swi{
+    background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  padding: 40px 57px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.div h1 span{
+  color: #fac031;
+  margin-right: 15px;
+  font-family: mv boli;
+}
+
+.bu h1{
+  font-size: 55px;
+  position: relative;
+  bottom: 50px;
+  left: -15%;
+}
